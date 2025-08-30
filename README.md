@@ -15,6 +15,11 @@
 # Objetivo
 
 - O objetivo deste projeto é reforçar a compreensão dos conceitos de POO através da prática, utilizando a linguagem Java para resolver problemas práticos. Cada exercício foi projetado para trabalhar diferentes aspectos da programação orientada a objetos, e os problemas foram resolvidos com o auxílio do Eclipse como ambiente de desenvolvimento.
+  
+# Tecnologias Utilizadas:
+
+- Linguagem: Java
+- IDE: Eclipse IDE 
 
 # Estrutura do Projeto
 
@@ -61,8 +66,3 @@
 │   │
 │   └── README.md
 └── README.md
-
-# Tecnologias Utilizadas:
-
-- Linguagem: Java
-- IDE: Eclipse IDE 
