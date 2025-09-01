@@ -1,55 +1,30 @@
 # Exercícios de Programação Orientada a Objetos
 
--Este repositório contém exercícios introdutórios de lógica e operações matemáticas na Lista-01, aplicados dentro do contexto de Programação Orientada a Objetos (POO).  
+-Este repositório contém os exercícios propostos e exercícios resolvidos do livro #"Fundamentos da Programação de Computadores"# 
 
-## Exercicios Resolvidos:
+##  Exercicios Resolvidos:
 
-### 1. Soma de quatro números inteiros
--O programa recebe quatro números inteiros e calcula a soma entre eles.  
+| #Nº#   | #Enunciado:#                                                                                   |
+|------|-----------------------------------------------------------------------------------------------|
+| Q01  | Faça um programa que receba quatro números inteiros, calcule e mostre a soma desses números. |
+| Q02  | Faça um programa que receba três notas, calcule e mostre a média aritmética.                 |
+| Q03  | Faça um programa que receba três notas e seus respectivos pesos, calcule e mostre a média ponderada. |
+| Q04  | Faça um programa que receba o salário de um funcionário, calcule e mostre o novo salário, sabendo-se que este sofreu um aumento de 25%. |
+| Q05  | Faça um programa que receba o salário de um funcionário e o percentual de aumento, calcule e mostre o valor do aumento e o novo salário. |
+| Q06  | Faça um programa que receba o salário base de um funcionário, calcule e mostre o salário a receber, sabendo-se que o funcionário tem gratificação de 5% sobre o salário base e paga imposto de 7% também sobre o salário base. |
+| Q07  | Faça um programa que receba o salário base de um funcionário, calcule e mostre seu salário a receber, sabendo-se que o funcionário tem gratificação de R$ 50 e paga imposto de 10% sobre o salário base. |
+| Q08  | Faça um programa que receba o valor de um depósito e o valor da taxa de juros, calcule e mostre o valor do rendimento e o valor total depois do rendimento. |
+| Q09  | Faça um programa que calcule e mostre a área de um triângulo. Sabe-se que: Área = (base * altura)/2. |
+| Q10  | Faça um programa que calcule e mostre a área de um círculo. Sabe-se que: Área = π * R². |
 
-### 2. Média aritmética de três notas
--O programa recebe três notas e calcula a média aritmética simples.  
+---
 
-### 3. Média ponderada de três notas
--O programa recebe três notas e seus respectivos pesos, calculando a média ponderada.  
+##  Exercícios Propostos
 
-### 4. Novo salário com aumento de 25%
-O programa recebe o salário de um funcionário e calcula o novo valor considerando aumento de 25%.  
-
-### 5. Novo salário com percentual de aumento
--O programa recebe o salário de um funcionário e um percentual de aumento, mostrando o valor do aumento e o novo salário.  
-
-### 6. Salário com gratificação de 5% e imposto de 7%
--O programa recebe o salário base e calcula o salário final, considerando gratificação de 5% e desconto de 7% de imposto.  
-
-### 7. Salário com gratificação fixa de R$50 e imposto de 10%
--O programa recebe o salário base e calcula o salário final, considerando gratificação fixa de R$50 e desconto de 10% de imposto.  
-
-### 8. Rendimento de depósito bancário
--O programa recebe o valor de um depósito e a taxa de juros, calculando o rendimento e o valor total.  
-
-### 9. Área de um triângulo
--O programa recebe a base e a altura de um triângulo e calcula sua área usando a fórmula:  
-Área = (base * altura) / 2  
-
-### 10. Área de um círculo
--O programa recebe o raio de um círculo e calcula sua área usando a fórmula:  
-Área = π * R²
-
-## Exercícios Propostos:
-
-### 1. Subtração de dois números
--O programa recebe dois números e realiza a subtração do primeiro pelo segundo.
-
-### 2. Multiplicação de três números
--O programa recebe três números e calcula o produto entre eles.
-
-### 3. Divisão de dois números
--O programa recebe dois números e realiza a divisão do primeiro pelo segundo.  
-Obs.: não há necessidade de validação, já que o divisor não será zero.
-
-### 4. Média ponderada de duas notas
--O programa recebe duas notas e calcula a média ponderada, considerando peso 2 para a primeira nota e peso 3 para a segunda.
-
-### 5. Desconto em produto
--O programa recebe o preço de um produto e aplica um desconto de 10%, retornando o novo.
+| Nº   | Enunciado                                                                                     |
+|------|-----------------------------------------------------------------------------------------------|
+| Q01  | Faça um programa que receba dois números, calcule e mostre a subtração do primeiro número pelo segundo. |
+| Q02  | Faça um programa que receba três números, calcule e mostre a multiplicação desses números.     |
+| Q03  | Faça um programa que receba dois números, calcule e mostre a divisão do primeiro número pelo segundo. |
+| Q04  | Faça um programa que receba duas notas, calcule e mostre a média ponderada dessas notas, considerando peso 2 para a primeira e peso 3 para a segunda. |
+| Q05  | Faça um programa que receba o preço de um produto, calcule e mostre o novo preço, sabendo-se que este sofreu um desconto de 10%. |
