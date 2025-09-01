@@ -1,6 +1,6 @@
 # Exercícios de Programação Orientada a Objetos
 
-### Este repositório contém os exercícios propostos e exercícios resolvidos do livro #"Fundamentos da Programação de Computadores".
+### Este repositório contém os exercícios propostos e exercícios resolvidos do livro 📚"Fundamentos da Programação de Computadores".                           
 
 ##  Exercicios Resolvidos:
 
