@@ -4,7 +4,7 @@
 
 ##  Exercicios Resolvidos:
 
-| #Nº#   | #Enunciado:#                                                                                   |
+| Nº   | Enunciado:                                                                                   |
 |------|-----------------------------------------------------------------------------------------------|
 | Q01  | Faça um programa que receba quatro números inteiros, calcule e mostre a soma desses números. |
 | Q02  | Faça um programa que receba três notas, calcule e mostre a média aritmética.                 |
