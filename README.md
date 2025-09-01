@@ -7,8 +7,8 @@
 
 - ## Membros da Equipe  
 - [Débora Liah Uchoa Pereira](https://github.com/deboraliah)  
-- [Ana Naylane Sousa Magalhães(https://github.com/nayxz)
-- [Rafaelly Lorena Barros dos Santos(https://github.com/rafaellylorena123)
+- [Ana Naylane Sousa Magalhães](https://github.com/naayxz)
+- [Rafaelly Lorena Barros dos Santos](https://github.com/rafaellylorena123)
 
 - Este projeto é uma implementação de Programação Orientada a Objetos (POO) utilizando a linguagem Java no ambiente de desenvolvimento Eclipse. O objetivo do trabalho é resolver 10 questões dos exercícios resolvidos e 5 questões dos exercícios propostos da apostila Fundamentos da Programação de Computadores, aplicando conceitos fundamentais de POO.
 
