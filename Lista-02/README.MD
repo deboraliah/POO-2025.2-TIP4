@@ -2,7 +2,7 @@
 
 ### Este repositório contém os exercícios propostos e exercícios resolvidos do livro 📚"Fundamentos da Programação de Computadores".        
 
--*_CAP 04_*
+- *_CAP 04_*
 
 ##  Exercicios Resolvidos:
 
