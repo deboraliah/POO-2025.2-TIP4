@@ -9,9 +9,9 @@
 | Nº   | Enunciado:                                                                                   |
 |------|-----------------------------------------------------------------------------------------------|
 | Q01  | A nota final de um estudante é calculada a partir de três notas atribuídas, respectivamente, a um trabalho de laboratório, a uma avaliação semestral e a um exame final. A média das três notas mencionadas obedece aos pesos a seguir:
-	•	Trabalho de laboratório: peso 2
-	•	Avaliação semestral: peso 3
-	•	Exame final: peso 5
+Trabalho de laboratório: peso 2
+Avaliação semestral: peso 3
+Exame final: peso 5
 Faça um programa que receba as três notas, calcule e mostre a média ponderada e o conceito que segue a tabela. |
 | Q02  | Faça um programa que receba três notas de um aluno, calcule e mostre a média aritmética e a mensagem constante na tabela a seguir.
 	•	Média de 0,0 até menor que 3,0 → Reprovado
