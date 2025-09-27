@@ -19,14 +19,27 @@
 # Tecnologias Utilizadas:
 
 - Linguagem: Java
-- IDE: Eclipse IDE 
+- IDE: Eclipse IDE
+
+## 📂 Organização dos Exercícios  
+
+Este repositório está contém  **3 listas de exercícios**, conforme os capítulos do livro:  
+
+- **Lista-01**  
+   - **Capítulo 03 → Estrutura Sequencial**  
+
+- **Lista-02**  
+  - **Capítulo 04 → Estrutura Condicional**  
+  - **Capítulo 05 → Estrutura de Repetição**  
+
+- **Lista-03**  
+  - **Capítulo 08 → Sub-rotina** 
+
 
 # Estrutura do Projeto
 
 - Este repositório contém a implementação de cada exercício resolvido e proposto da apostila. A estrutura do projeto no Eclipse foi organizada da seguinte forma:
-
 - A pasta Exercicios-Resolvidos/ contém as soluções para as questões dos exercícios resolvidos da apostila.
-
 - A pasta Exercicios-Propostos/ contém as soluções para as questões dos exercícios propostos da apostila.
 
 ```text
