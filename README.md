@@ -5,7 +5,7 @@
 - Professor: Roger Moura Sarmento
 - Instituição: IFCE Campus Maranguape
 
-# Membros da Equipe  
+ - Membros da Equipe  
   - [Débora Liah Uchoa Pereira](https://github.com/deboraliah)  
   - [Ana Naylane Sousa Magalhães](https://github.com/naayxz)
   - [Rafaelly Lorena Barros dos Santos](https://github.com/rafaellylorena123)
