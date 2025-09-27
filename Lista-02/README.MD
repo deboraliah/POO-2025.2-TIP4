@@ -27,16 +27,10 @@
 |------|-----------------------------------------------------------------------------------------------|
 | Q01  | Faça um programa que receba quatro notas de um aluno, calcule e mostre a média aritmética das notas e a mensagem de aprovado ou reprovado, considerando para aprovação média 7. |
 | Q02  | Faça um programa que receba duas notas, calcule e mostre a média aritmética e a mensagem que se encontra na tabela a seguir:
-	•	Média de 0,0 até menor que 3,0 → Reprovado
-	•	Média de 3,0 até menor que 7,0 → Exame
-	•	Média de 7,0 até 10,0 → Aprovado.     |
+Média de 0,0 até menor que 3,0 → Reprovado; Média de 3,0 até menor que 7,0 → Exame; Média de 7,0 até 10,0 → Aprovado;     |
 | Q03  | Faça um programa que receba dois números e mostre o menor. |
 | Q04  | Faça um programa que receba três números e mostre o maior. |
-| Q05  | 	Faça um programa que receba dois números e execute as operações listadas a seguir, de acordo com a escolha do usuário:
-	•	1 → Média entre os números digitados
-	•	2 → Diferença do maior pelo menor
-	•	3 → Produto entre os números digitados
-	•	4 → Divisão do primeiro pelo segundo. |
+| Q05  | 	Faça um programa que receba dois números e execute as operações listadas a seguir, de acordo com a escolha do usuário: 1 → Média entre os números digitados; 2 → Diferença do maior pelo menor; 3 → Produto entre os números digitados; 4 → Divisão do primeiro pelo segundo; |
 
 - *_CAP 05_*                  
 
